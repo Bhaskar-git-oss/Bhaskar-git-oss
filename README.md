@@ -14,10 +14,6 @@ I’m a Linux enthusiast with a passion for learning and exploring various aspec
 
 ## 📚 Projects
 
-### **Normal Startup Page**
-- **Description**: A simple test startup page to demonstrate basic web development skills.
-- **Technologies**: HTML, CSS, JavaScript.
-
 ### **Linux Memory Management**
 - **Description**: Learning and exploring Linux memory management techniques.
 - **Focus**: Understanding memory allocation, paging, and efficient resource management.
